@@ -1,0 +1,40 @@
+/* Heading styling 
+h3 {
+    color: blue;
+    font-size: 24px;
+  }
+  
+  /* Button hover effect */
+  .button {
+    transition-duration: 0.4s;
+  }
+  
+  .button:hover {
+    background-color: #04AA6D;
+    color: white;
+  }
+  
+  /* Heading 1 color */
+  h1 {
+    color: #04AA6D;
+  }
+  
+  /* Styling anchor links */
+  a {
+    text-decoration: none; /* Remove underline */
+    color: blue;
+    display: inline-block;  /* Ensure it behaves like a block if needed */
+    margin: 0 auto;
+  }
+  
+  /* Center the anchor text properly */
+  body {
+    text-align: center; /* Center content globally */
+  }
+  
+  /* Add hover effect to anchor links */
+  a:hover {
+    color: #04AA6D; /* Change color on hover */
+  }
+  
+  
